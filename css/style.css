@@ -43,6 +43,15 @@ h1{
     float: right;
     clear:both;
 }
+.center{
+    width: 150px;
+    margin: 10px auto;
+    clear: both;
+    background-color: rgb(180, 222, 233);
+    border: 2px solid grey;
+    border-radius: 21px;
+    text-align: center;
+}
 
 #send-container{
     display:block;
