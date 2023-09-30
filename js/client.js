@@ -1,4 +1,4 @@
-const socket = io('http://64.227.157.143:3000');
+const socket = io('http://165.22.218.148:3000');
 
 // Get DOM elements in respective Js variables
 const form = document.getElementById('send-container');
